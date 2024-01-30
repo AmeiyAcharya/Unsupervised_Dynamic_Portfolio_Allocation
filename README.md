@@ -64,4 +64,4 @@ The Cluster 01-based portfolio shows remarkable performance, achieving returns c
 
 Cluster 03 underperforms, lagging by 20-30% and reaching only 60% returns.
 
-![Cluster 03 Based Portfolio Returns](Finaloutput_Cluster03.png)
+![Cluster 03 Based Portfolio Returns](FinalOutput_Cluster03.png)
